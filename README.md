@@ -99,7 +99,7 @@ Admin capabilities:
 
 Admin can view and filter bookings.
 
-![Bookings](images/bookings.png)
+![Bookings](https://github.com/Sameer-Pattnaik/Blue_Horizon_Lake_Hotel/blob/ea1b6efb54887a1c8d18d78a315b6d5812bac7f6/Screenshot%20(404).png)
 
 Features:
 
