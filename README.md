@@ -38,7 +38,7 @@ This project demonstrates **full-stack development using React and Spring Boot**
 
 Users are welcomed with the hotel landing page and featured rooms.
 
-![Home Page](images/homepage.png)
+![Home Page](https://github.com/Sameer-Pattnaik/Blue_Horizon_Lake_Hotel/blob/ea1b6efb54887a1c8d18d78a315b6d5812bac7f6/Screenshot%20(405).png)
 
 Features:
 
@@ -52,7 +52,7 @@ Features:
 
 Users can view all available rooms and choose the one they want to book.
 
-![Browse Rooms](images/browse-rooms.png)
+![Browse Rooms](https://github.com/Sameer-Pattnaik/Blue_Horizon_Lake_Hotel/blob/ea1b6efb54887a1c8d18d78a315b6d5812bac7f6/Screenshot%20(409).png)
 
 Features:
 
@@ -67,7 +67,7 @@ Features:
 
 Displays the services offered by the hotel.
 
-![Hotel Services](images/services.png)
+![Hotel Services](https://github.com/Sameer-Pattnaik/Blue_Horizon_Lake_Hotel/blob/ea1b6efb54887a1c8d18d78a315b6d5812bac7f6/Screenshot%20(411).png)
 
 Services include:
 
@@ -84,7 +84,7 @@ Services include:
 
 Admin dashboard for managing hotel rooms.
 
-![Existing Rooms](images/admin-rooms.png)
+![Existing Rooms](https://github.com/Sameer-Pattnaik/Blue_Horizon_Lake_Hotel/blob/ea1b6efb54887a1c8d18d78a315b6d5812bac7f6/Screenshot%20(410).png)
 
 Admin capabilities:
 
