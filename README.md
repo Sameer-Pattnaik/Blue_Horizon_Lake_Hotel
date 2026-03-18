@@ -249,7 +249,7 @@ This project helped me understand:
 
 **Sameer Kumar Pattnaik**
 
-* GitHub: [https://github.com/yourusername](https://github.com/Sameer-Pattnaik)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sameer-kumar-pattnaik-bbb97322a)
+* GitHub: [https://github.com/Sameer-Pattnaik](https://github.com/Sameer-Pattnaik)
+* LinkedIn: [https://linkedin.com/in/sameer-kumar-pattnaik](https://www.linkedin.com/in/sameer-kumar-pattnaik-bbb97322a)
 
 ---
